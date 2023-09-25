@@ -6,7 +6,7 @@ public class Git_force_test {
 
     
     public static void main(String[] args) {
-        while (true) {            
+        System.out.println("bbb");
             
         }
     }
